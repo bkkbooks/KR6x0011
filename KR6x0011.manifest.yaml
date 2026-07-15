@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6x0011/v1
 canonical_location: https://kanripo.org/bkk/KR6x0011/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 如是語經
   source:
@@ -18,9 +18,9 @@ editions:
 - short: 'N'
 assets:
   parts:
-  - {seq: 1, filename: KR6x0011_001.yaml, hash: 'sha256:f9b664da867c20749c9921312669cbc8a0b90b14a4397b28c9042a10ffe20aba'}
+  - {seq: 1, filename: KR6x0011_001.yaml, hash: 'sha256:da77ac6c28480be65dbec12fed0ee171b489b1a933ca449c22fe9f585adf6072'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6x0011_001.markers.yaml, hash: 'sha256:74e79bc0371f7daf7ffa0d27495684dec6ed18929bb9ee2ac0944e3ac133feed'}
+  - {seq: 1, role: markers, filename: assets/KR6x0011_001.markers.yaml, hash: 'sha256:f2d1ccc20e0fb5ea3fe1f9eb6ffbc3d272a8efe0eb20d69412547711a3ec23cf'}
 table_of_contents:
 - ref:
     seq: 1
@@ -1262,4 +1262,7 @@ table_of_contents:
   label: 一一二（四、一三）
   type: mulu
   level: 1
-hash: sha256:d1128a8e6640d701a102bb88948bc3f31cbafb62efa331f0398cd76ea7ccc85e
+hash: sha256:cae90b909854b95fd787ed02200da977a0d3f7e43901419c1efbed905c0bd2bc
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
